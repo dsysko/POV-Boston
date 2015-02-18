@@ -1,0 +1,23 @@
+Notes and features, 20150218
+
+   Dustin:
+      display of text/images/colours
+      not too noisy
+      POV 
+         rotational indexing
+      telepresence:
+         doesn't need POV
+
+   Nathan:
+      telepresence
+         use a camera on both ends
+	physical:
+         low-fi brushed aluminum
+         non-invasive build
+	
+	Clint:
+         interactive with bystanders via shadow or etc.
+         Shadow might be a character other than the interactor
+	
+	Shruthi:
+         not available in the evenings, working day by day
